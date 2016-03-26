@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SchoolChat</string>
+    <item name="typing" type="id">typing</item>
+</resources>
